@@ -1,0 +1,5 @@
+Sample 1: neutral
+Sample 2: positive
+Sample 3: negative
+Sample 4: neutral
+Sample 5: positive
